@@ -1,0 +1,3 @@
+MetAuto.outdir=test-output
+MetAutoxmlTemplateFile=${workspace_loc\:MetAuto/pom.xml}
+eclipse.preferences.version=1

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="9" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45" started-at="2021-01-13T00:24:52 EST" finished-at="2021-01-13T00:24:52 EST">
+    <groups>
+      <group name="my">
+        <method signature="TestNgDemo.carLoanWeb()[pri:0, instance:trainingUdemy.TestNgDemo@4f063c0a]" name="carLoanWeb" class="trainingUdemy.TestNgDemo"/>
+        <method signature="TestNgDemo2.homeLoanMob()[pri:0, instance:trainingUdemy.TestNgDemo2@1e6d1014]" name="homeLoanMob" class="trainingUdemy.TestNgDemo2"/>
+        <method signature="TestNgDemo2.insuranceMob()[pri:0, instance:trainingUdemy.TestNgDemo2@1e6d1014]" name="insuranceMob" class="trainingUdemy.TestNgDemo2"/>
+      </group> <!-- my -->
+    </groups>
+    <test name="Test10" duration-ms="45" started-at="2021-01-13T00:24:52 EST" finished-at="2021-01-13T00:24:52 EST">
+      <class name="trainingUdemy.TestNgDemo">
+        <test-method status="PASS" signature="carLoanWeb()[pri:0, instance:trainingUdemy.TestNgDemo@4f063c0a]" name="carLoanWeb" duration-ms="6" started-at="2021-01-13T00:24:52 EST" finished-at="2021-01-13T00:24:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanWeb -->
+      </class> <!-- trainingUdemy.TestNgDemo -->
+      <class name="trainingUdemy.TestNgDemo2">
+        <test-method status="PASS" signature="homeLoanMob()[pri:0, instance:trainingUdemy.TestNgDemo2@1e6d1014]" name="homeLoanMob" duration-ms="2" started-at="2021-01-13T00:24:52 EST" finished-at="2021-01-13T00:24:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLoanMob -->
+        <test-method status="PASS" signature="insuranceMob()[pri:0, instance:trainingUdemy.TestNgDemo2@1e6d1014]" name="insuranceMob" duration-ms="1" started-at="2021-01-13T00:24:52 EST" finished-at="2021-01-13T00:24:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insuranceMob -->
+      </class> <!-- trainingUdemy.TestNgDemo2 -->
+    </test> <!-- Test10 -->
+  </suite> <!-- Suite -->
+</testng-results>

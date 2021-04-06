@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="trainingUdemy.windowHandle"/>
+      <class name="trainingUdemy.Practice"/>
+      <class name="notDefault.robotClassDemo"/>
+      <class name="excelUtil.ExcelInput"/>
+      <class name="trainingUdemy.Table"/>
+      <class name="trainingUdemy.dropdown"/>
+      <class name="trainingUdemy.Calendar"/>
+      <class name="notDefault.firstProg"/>
+      <class name="trainingUdemy.FluentWaitDemo"/>
+      <class name="trainingUdemy.ListDemo"/>
+      <class name="trainingUdemy.GreenKart"/>
+      <class name="trainingUdemy.Practice2"/>
+      <class name="notDefault.JavaEX"/>
+      <class name="trainingUdemy.JavaExDemo"/>
+      <class name="trainingUdemy.Alert"/>
+      <class name="trainingUdemy.ActionDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
